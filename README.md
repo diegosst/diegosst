@@ -1,16 +1,7 @@
-<style>
-    @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-    @import url('https://fonts.googleapis.com/css?family=Julee&display=swap');
-    #h1,h2,h3,h4,span,summary {
-        font-family: Roboto;
-    }
-</style>
-
-
 <h1 align="center">Solution Architect</h1>
 
 <p align="center">
-    <span style="font-family: 'Julee'; font-size: 20px;">The best of us is yet to come!</span>
+    <span style="font-size: 20px;">The best of us is yet to come!</span>
 </p>
 
 <p>
