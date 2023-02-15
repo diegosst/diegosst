@@ -9,17 +9,17 @@
 </p>
 <br>
 <br>
-<span>
-    Hey, good to see you here!
-    <br>
-    My name is Diego Santos and I have been working with development and architecture since 2014.
-    <br>
-    Most of my career experience is with the e-commerce business, scoping, designing, implementing and tuning project platforms for many companies.
-    <br>
-    You can find my experiences and skills here.
-</span>
-<h1 align="center"></h1>
+
+Hey, good to see you here!
+
+My name is Diego Santos and I have been working with development and architecture since 2014.
+
+Most of my career experience is with the e-commerce business, scoping, designing, implementing and tuning project platforms for many companies.
+
+You can find my experiences and skills here.
+
 <br>
+
 <h2><b>Knowledge Stack:</b></h2>
 <br>
 <h3 align="center"><b>Backend</b></h3>
@@ -147,7 +147,7 @@
 <br>
 
 <details>
-    <summary>Ver mais</summary>
+    <summary>See more</summary>
     <h3 align="center"><b>Communication</b></h3>
     <table align="center">
         <tr>
@@ -286,14 +286,14 @@
         </tr>
     </table>
 </details>
-<h1 align="center"></h1>
 <h2><b>Overview:</b></h2>
 <br>
-<p align="center" style="margin-bottom: 200px">
+<p align="center">
     <img align="left" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api?username=diegosst&count_private=true&show_icons=true&theme=dark" />
     <img align="right" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosst&layout=compact&theme=dark&langs_count=9" />
 </p>
-<p align="center" style="margin-top: 20px;">
+<br><br><br><br><br><br><br>
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=diegosst&theme=tokyonight&no-frame=true&row=1&&margin-w=10&no-bg=false" width="600px"/>
     </a>
